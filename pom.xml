@@ -10,6 +10,8 @@
     <modules>
         <module>rest-template</module>
         <module>springbucks</module>
+        <module>rest-template-02</module>
+        <module>rest-template-demo02</module>
     </modules>
     <packaging>pom</packaging>
 
